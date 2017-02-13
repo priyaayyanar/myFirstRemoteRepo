@@ -1,1 +1,3 @@
 test case file
+performence testing
+functional testing
